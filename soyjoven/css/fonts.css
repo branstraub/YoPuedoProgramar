@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Segoe-Pro';
+    src: url('fonts/segoe.eot');
+    src: url('fonts/segoe.eot?#iefix') format('embedded-opentype'),
+         url('fonts/segoe.woff') format('woff'),
+         url('fonts/segoe.ttf') format('truetype'),
+         url('fonts/segoe.svg#segoe') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Segoe-Bold';
+    src: url('fonts/segoe_bold.eot');
+    src: url('fonts/segoe_bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/segoe_bold.woff') format('woff'),
+         url('fonts/segoe_bold.ttf') format('truetype'),
+         url('fonts/segoe_bold.svg#segoe') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Segoe-Light';
+    src: url('fonts/segoe_light.eot');
+    src: url('fonts/segoe_light.eot?#iefix') format('embedded-opentype'),
+         url('fonts/segoe_light.woff') format('woff'),
+         url('fonts/segoe_light.ttf') format('truetype'),
+         url('fonts/segoe_light.svg#segoe') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
